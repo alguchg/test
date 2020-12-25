@@ -17,7 +17,6 @@ setup(
     author="Daniil Okhlopkov, Evgeny Kemerov",
     author_email="danokhlopkov@gmail.com, eskemerov@gmail.com",
     license="Apache Software License 2.0",
-    url="https://github.com/instagrambot/instabot",
     keywords=["instagram", "bot", "api", "wrapper"],
     install_requires=[
         "certifi>=2019.11.28",
